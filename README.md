@@ -18,9 +18,9 @@ The dataset provides insights into individuals' sleeping habits and related life
 
 You can install the required packages using pip:
 
-\```bash
+```
 pip install pandas scikit-learn joblib imbalanced-learn
-\```
+```
 
 ### Usage
 
@@ -30,15 +30,15 @@ pip install pandas scikit-learn joblib imbalanced-learn
 
 2. **Training**:
     - Run the training script to preprocess the data, train the model, and save it:
-    \```bash
+    ```
     python train.py
-    \```
+    ```
 
 3. **Prediction**:
     - Use the provided prediction script to make predictions on new data points:
-    \```bash
+    ```
     python predict.py
-    \```
+    ```
 
 ## Model
 
